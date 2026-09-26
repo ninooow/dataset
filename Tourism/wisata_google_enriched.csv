@@ -1,0 +1,620 @@
+﻿nama_wisata,alamat,kategori,google_place_id,google_name,google_address,google_rating,google_rating_count,google_maps_url,latitude,longitude,status,selection_method,data_retrieved_at,match_status,match_reason
+Ratu Boko Temple,Yogyakarta,Ancient Ruins,ChIJRf5U05Jaei4RW_l2RPFEPxU,Keraton Ratu Boko,"Jl. Ratu Boko No.2, Gatak, Bokoharjo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55572, Indonesia",4.7,16110.0,https://maps.google.com/?cid=1531018201355712859&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.770568300000001,110.48614219999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:20.121821+00:00,,
+Sewu Temple,Yogyakarta,Ancient Ruins,ChIJg1Q_sR5bei4RrPrSoBsmnf4,Sewu Temple,"Dukuh, Bener, Bugisan, Kec. Prambanan, Kabupaten Klaten, Jawa Tengah 57454, Indonesia",4.7,4575.0,https://maps.google.com/?cid=18346862357081422508&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.743987499999999,110.49285940000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:20.890116+00:00,,
+Ramayana Ballet At Prambanan,Sleman,Ballets,ChIJgRAaCeNaei4RQs-4Enbl00I,Ramayana Ballet Prambanan,"Klurak, Tamanmartani, Kec. Kalasan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55571, Indonesia",4.8,2836.0,https://maps.google.com/?cid=4815444721872195394&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.7530267,110.4884829,SUCCESS,FIRST_RESULT,2026-09-25T07:33:21.688882+00:00,,
+Malioboro Road,Yogyakarta,Flea & Street Markets,ChIJxQZh-iVYei4RMxHtpSHFpD4,Jalan Malioboro,"Jl. Malioboro, Sosromenduran, Gedong Tengen, Kota Yogyakarta, Daerah Istimewa Yogyakarta, Indonesia",4.8,9225.0,https://maps.google.com/?cid=4513949474840449331&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.7937525,110.3657077,SUCCESS,FIRST_RESULT,2026-09-25T07:33:22.415200+00:00,,
+Yogyakarta Palace,Yogyakarta,Historic Sites,ChIJ78cG25ZXei4RbCcrBc9xUjk,Keraton Ngayogyakarta Hadiningrat,"Jl. Rotowijayan No.1, Panembahan, Kecamatan Kraton, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55131, Indonesia",4.7,39588.0,https://maps.google.com/?cid=4130488942211049324&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.805369799999999,110.3643518,SUCCESS,FIRST_RESULT,2026-09-25T07:33:23.234039+00:00,,
+Ullen Sentalu Museum,"Jl. Boyong Taman Wisata, 55581 Indonesia",History Museums,ChIJuQp5_QJeei4RcSZ5sDVg_qM,Museum Ullen Sentalu,"Jl. Boyong No.KM 25, Kaliurang, Hargobinangun, Kec. Pakem, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55582, Indonesia",4.7,11856.0,https://maps.google.com/?cid=11816988255977023089&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.598228,110.42282499999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:24.025749+00:00,,
+Sacred Monkey Forest Sanctuary,"Jl. Monkey Forest, Ubud 80571 Indonesia",Nature & Wildlife Areas,ChIJZ5sY9kM90i0RVsPvSxZD7LY,Sacred Monkey Forest Sanctuary,"Jl. Monkey Forest, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571, Indonesia",4.5,59793.0,https://maps.google.com/?cid=13180983972448944982&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-8.5193727,115.26062990000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:24.789804+00:00,,
+Tegalalang Rice Terrace,"Jalan Raya Ceking, Tegalalang 80517 Indonesia",Points Of Interest & Landmarks,ChIJ4wD5Iwsi0i0R7QRsOGmJGo0,Tegallalang Rice Terrace,"Jl. Raya Tegallalang, Tegallalang, Kec. Tegallalang, Kabupaten Gianyar, Bali 80561, Indonesia",4.4,54934.0,https://maps.google.com/?cid=10167590193753490669&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-8.431711199999999,115.279303,SUCCESS,FIRST_RESULT,2026-09-25T07:33:25.547785+00:00,,
+Water Castle (Tamansari),"Jl. Taman, 55133 Indonesia",Points Of Interest & Landmarks,ChIJya-Z3pNXei4R-ceM3J_doVA,Water Castle of Royal Jogjakarta,"59R5+2P2, Patehan, Kraton, Yogyakarta City, Special Region of Yogyakarta 55133, Indonesia",4.1,332.0,https://maps.google.com/?cid=5810168672954402809&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.809991200000001,110.3592666,SUCCESS,FIRST_RESULT,2026-09-25T07:33:26.260266+00:00,,
+Tanah Lot Temple,"Kecamatan Kediri, Kabupaten Tabanan, Beraban 82121 Indonesia",Religious Sites,ChIJBa0pr-M30i0R3m4JVAOkFvA,Tanah Lot Temple Square,"93MP+8QC, Jl. Tanah Lot, Beraban, Kec. Kediri, Kabupaten Tabanan, Bali 82121, Indonesia",4.7,1404.0,https://maps.google.com/?cid=17300195352792100574&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-8.6166989,115.0868991,SUCCESS,FIRST_RESULT,2026-09-25T07:33:27.009598+00:00,,
+Uluwatu Temple,"Jl. Raya Uluwatu Southern Part Of Bali, Pecatu 80361 Indonesia",Religious Sites,ChIJkYHLIPxP0i0RlQTbpxuNuQw,Uluwatu Temple,"Pecatu, South Kuta, Badung Regency, Bali, Indonesia",4.6,53113.0,https://maps.google.com/?cid=916919149066388629&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-8.829143199999999,115.08490690000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:27.848410+00:00,,
+Museum Malang Tempo Doeloe,"Jl. Gajahmada No. 2, Malang 65119 Indonesia",Speciality Museums,ChIJj9GoVTwo1i0R-bO-haadNBg,Jl. Gajahmada No.2,"Jl. Gajahmada No.2, Kiduldalem, Kec. Klojen, Kota Malang, Jawa Timur 65119, Indonesia",,,https://maps.google.com/?cid=1744192294233224185&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.978899599999999,112.63489609999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:28.662641+00:00,,
+Benteng Marlborough,Bengkulu,Benteng,ChIJB3DwedevNi4RTX5KxvRDATw,Fort Marlborough,"Jl. Benteng, Kebun Keling, Kec. Tlk. Segara, Kota Bengkulu, Bengkulu 38116, Indonesia",4.6,10358.0,https://maps.google.com/?cid=4323811835830238797&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-3.7873229999999998,102.25167569999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:29.373546+00:00,,
+Benteng Talagame,"Kota Ternate, Maluku Utara",Benteng,ChIJxa4k4oOxnDIRiAENh5akZG8,Benteng Portugis Tolukko,"R97Q+J55, Jl. Pemuda, Sangaji Utara, Kec. Kota Ternate Utara, Kota Ternate, Maluku Utara, Indonesia",4.5,1149.0,https://maps.google.com/?cid=8026721402298892680&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.8140206999999999,127.387989,SUCCESS,FIRST_RESULT,2026-09-25T07:33:30.096706+00:00,,
+Benteng Willyam Star,"Kota Ternate, Maluku Utara",Benteng,ChIJz4yQa8S0nDIRmN_JAPna_E8,"Forte Português em Ternaté Moluca , Kastéla","Q866+CV4, Kastela, Pulau Ternate, Ternate City, North Maluku, Indonesia",4.2,318.0,https://maps.google.com/?cid=5763722386122334104&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.7610034999999999,127.31219049999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:30.836914+00:00,,
+Benteng Fort Concordia,"Kota Kupang, Nusa Tenggara Timur",Benteng,ChIJzdlC64qcViwRh-R2K1jbEmQ,Concordia Fortress,"RHPF+WP2, Fatufeto, Alak, Kupang City, East Nusa Tenggara, Indonesia",4.5,91.0,https://maps.google.com/?cid=7211067125106402439&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-10.1627277,123.57426790000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:31.582282+00:00,,
+Benteng Tujuh Lapis,"Kabupaten Rokan Hulu, Riau",Benteng,ChIJHwSXb3lnKzARBMWTdE2Pzro,Benteng Tujuh Lapis (Seven Layer Fortress),"37M3+82Q, Tambusai Tengah, Tambusai, Rokan Hulu Regency, Riau 28558, Indonesia",4.4,328.0,https://maps.google.com/?cid=13460853899088086276&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,1.0833434,100.2526122,SUCCESS,FIRST_RESULT,2026-09-25T07:33:32.292222+00:00,,
+Benteng Tujuh Lapis Dalu-Dalu,"Kabupaten Rokan Hulu, Riau",Benteng,ChIJHwSXb3lnKzARBMWTdE2Pzro,Benteng Tujuh Lapis (Seven Layer Fortress),"37M3+82Q, Tambusai Tengah, Tambusai, Rokan Hulu Regency, Riau 28558, Indonesia",4.4,328.0,https://maps.google.com/?cid=13460853899088086276&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,1.0833434,100.2526122,SUCCESS,FIRST_RESULT,2026-09-25T07:33:32.992800+00:00,,
+Benteng Somba Opu,"Kabupaten Gowa, Sulawesi Selatan",Benteng,ChIJpVexH3Tivi0R2gWAvWT_7HI,Fort Somba Opu,"Jl. Daeng Tata, Benteng Somba Opu, Kec. Barombong, Kota Makassar, Sulawesi Selatan 90224, Indonesia",4.3,1011.0,https://maps.google.com/?cid=8281274622968595930&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.189921,119.40159340000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:33.599980+00:00,,
+Benteng Pertahanan Pongtiku,"Kabupaten Toraja Utara, Sulawesi Selatan",Benteng,ChIJ0U87C-HBky0Rr9vh3y6xEbA,Puncak Mamullu Lolai,"Rindingalo, Saloso, Kec. Rantepao, Kabupaten Toraja Utara, Sulawesi Selatan 91862, Indonesia",4.0,13.0,https://maps.google.com/?cid=12687116440162130863&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-2.963214,119.86268240000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:34.109905+00:00,,
+Benteng Fort Rotterdam,"Kota Makassar, Sulawesi Selatan",Benteng,ChIJ7zfOEbACvy0RI8-2wSg57Sg,Fort Rotterdam,"No.Road, Jl. Ujung Pandang, Bulo Gading, Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90171, Indonesia",4.5,14473.0,https://maps.google.com/?cid=2949076178209001251&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.1340004,119.40563110000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:34.835931+00:00,,
+Benteng Panyua,"Kota Makassar, Sulawesi Selatan",Benteng,ChIJ7zfOEbACvy0RI8-2wSg57Sg,Fort Rotterdam,"No.Road, Jl. Ujung Pandang, Bulo Gading, Kec. Ujung Pandang, Kota Makassar, Sulawesi Selatan 90171, Indonesia",4.5,14473.0,https://maps.google.com/?cid=2949076178209001251&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.1340004,119.40563110000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:35.539870+00:00,,
+Benteng,"Kabupaten Buton Utara, Sulawesi Tenggara",Benteng,ChIJgwXQGst2pC0Rkb9zCImxYY8,Buton Sultanate Palace Fortress,"GJG2+4W6, Jl. Labuke, Melai, Kec. Murhum, Kota Bau-Bau, Sulawesi Tenggara 93713, Indonesia",4.7,1694.0,https://maps.google.com/?cid=10331734222275067793&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.474714199999999,122.6022575,SUCCESS,FIRST_RESULT,2026-09-25T07:33:36.197810+00:00,,
+Benteng Keraton Buton,"Kota Bau-Bau, Sulawesi Tenggara",Benteng,ChIJgwXQGst2pC0Rkb9zCImxYY8,Buton Sultanate Palace Fortress,"GJG2+4W6, Jl. Labuke, Melai, Kec. Murhum, Kota Bau-Bau, Sulawesi Tenggara 93713, Indonesia",4.7,1694.0,https://maps.google.com/?cid=10331734222275067793&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.474714199999999,122.6022575,SUCCESS,FIRST_RESULT,2026-09-25T07:33:36.957114+00:00,,
+Benteng Keraton Buton Dan Masjid Agung Keraton,"Kota Bau-Bau, Sulawesi Tenggara",Benteng,ChIJgwXQGst2pC0Rkb9zCImxYY8,Buton Sultanate Palace Fortress,"GJG2+4W6, Jl. Labuke, Melai, Kec. Murhum, Kota Bau-Bau, Sulawesi Tenggara 93713, Indonesia",4.7,1694.0,https://maps.google.com/?cid=10331734222275067793&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.474714199999999,122.6022575,SUCCESS,FIRST_RESULT,2026-09-25T07:33:37.686853+00:00,,
+Benteng Resort,"Kota Bitung, Sulawesi Utara",Benteng,ChIJfRZ1iEushzIRd76SLBgJyp8,Benteng Resort,"H5R3+FPV, Pinenek, Likupang Timur, North Minahasa Regency, North Sulawesi, Indonesia",4.2,130.0,https://maps.google.com/?cid=11514025396757773943&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,1.5912279,125.15428639999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:38.514832+00:00,,
+Benteng Santo Pedro,"Kota Ternate, Maluku Utara",Benteng,ChIJxa4k4oOxnDIRiAENh5akZG8,Benteng Portugis Tolukko,"R97Q+J55, Jl. Pemuda, Sangaji Utara, Kec. Kota Ternate Utara, Kota Ternate, Maluku Utara, Indonesia",4.5,1149.0,https://maps.google.com/?cid=8026721402298892680&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.8140206999999999,127.387989,SUCCESS,FIRST_RESULT,2026-09-25T07:33:39.168333+00:00,,
+Benteng Kuto Besak,"Kota Palembang, Sumatera Selatan",Benteng,ChIJqybWvgN2Oy4RsuP3QwCiJoI,Benteng Kuto Besak,"Jl. Sultan Mahmud Badarudin, 19 Ilir, Kec. Bukit Kecil, Kota Palembang, Sumatera Selatan 30113, Indonesia",4.5,15842.0,https://maps.google.com/?cid=9378361396069655474&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-2.9912261,104.75918670000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:39.937325+00:00,,
+Benteng Tatas,"Kota Banjarmasin, Kalimantan Selatan",Benteng,ChIJWwj-osMj5C0R8nFRa8gyHKE,Masjid Raya Sabilal Muhtadin - Banjarmasin,"Jl. Jend Sudirman No.1, Antasan Besar, Kec. Banjarmasin Tengah, Kota Banjarmasin, Kalimantan Selatan 70114, Indonesia",4.8,11329.0,https://maps.google.com/?cid=11609209775829643762&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-3.3190271,114.5909985,SUCCESS,FIRST_RESULT,2026-09-25T07:33:40.677351+00:00,,
+Benteng Nossa Senhora Da Anunciada,"Kota Ambon, Maluku",Benteng,ChIJNdyN8lDobC0RChMAiLU6N-I,Nieuw Victoria Fort,"855J+6VC Benteng New Victoria, Jl. Slamet Riyadi No.1, Uritetu, Kec. Sirimau, Kota Ambon, Maluku 97000, Indonesia",4.1,216.0,https://maps.google.com/?cid=16300561927635997450&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-3.6927869,128.1824825,SUCCESS,FIRST_RESULT,2026-09-25T07:33:41.420805+00:00,,
+Benteng Kota Bombonawulu,"Kabupaten Buton Tengah, Sulawesi Tenggara",Benteng,ChIJMfY6AACPoy0RThpL9mlnLBs,Benteng Bombonawulu,"PH58+93, Wongko Lakudo, Lakudo, Buton Regency, South East Sulawesi 93763, Indonesia",,,https://maps.google.com/?cid=1958053642800667214&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.2915631,122.5652032,SUCCESS,FIRST_RESULT,2026-09-25T07:33:42.171752+00:00,,
+Benteng Wasilomata,"Kabupaten Buton Tengah, Sulawesi Tenggara",Benteng,ChIJEWbydEp5oy0R5yLxIVx66-o,Benteng Wasilomata,"M8M6+GXX, Wasilomata II, Mawasangka, Buton Regency, South East Sulawesi 93762, Indonesia",,,https://maps.google.com/?cid=16927758160527172327&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.3164071999999996,122.31249659999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:42.914920+00:00,,
+Benteng Gumanano,"Kabupaten Buton Tengah, Sulawesi Tenggara",Benteng,ChIJOze-uFZ-oy0RdlrKfFNzljs,Danau Gumanano,"J853+XFH, Gumamano, Mawasangka, Buton Regency, South East Sulawesi 93762, Indonesia",4.5,26.0,https://maps.google.com/?cid=4293746097157462646&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.3900548,122.30374020000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:43.703854+00:00,,
+Benteng Tindoi,"Kabupaten Wakatobi, Sulawesi Tenggara",Benteng,ChIJd0pgQyQyoS0R8X5uGP89YH4,Tindoi,"Tindoi, South Wangi-Wangi, Wakatobi Regency, South East Sulawesi, Indonesia",,,https://maps.google.com/?cid=9106346612378992369&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.2802504,123.586797,SUCCESS,FIRST_RESULT,2026-09-25T07:33:44.244413+00:00,,
+Benteng Liya,"Kabupaten Wakatobi, Sulawesi Tenggara",Benteng,ChIJxz6VowvNpi0RIQ679jIhNV4,Masjid Keraton Liya,"MG3V+4MH Liya Togo, Liya Mawi, Wangi-Wangi Sel., Kabupaten Wakatobi, Sulawesi Tenggara 93795, Indonesia",4.6,98.0,https://maps.google.com/?cid=6788368516102426145&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.3471959,123.54423940000001,SUCCESS,FIRST_RESULT,2026-09-25T07:33:44.948728+00:00,,
+Benteng Ollo,"Kabupaten Wakatobi, Sulawesi Tenggara",Benteng,ChIJz5afYJ8bpy0RVuHPy6pDX1c,Benteng Patua Tomia,"7W9H+Q8P, Patua, Tomia, Wakatobi Regency, South East Sulawesi 93793, Indonesia",4.8,6.0,https://maps.google.com/?cid=6295825204930142550&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.7305433,123.92831729999997,SUCCESS,FIRST_RESULT,2026-09-25T07:33:45.694297+00:00,,
+Benteng La Donda Benteng La Donda,"Kabupaten Wakatobi, Sulawesi Tenggara",Benteng,ChIJkftXuJIFpy0RGDxj3mYArCM,Benteng Suo-Suo,"6WWX+8MW, Jl. Encik Sulaiman, Kahiyanga, Kec. Tomia Tim., Kabupaten Wakatobi, Sulawesi Tenggara 93797, Indonesia",4.7,14.0,https://maps.google.com/?cid=2570429929139420184&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.754139599999999,123.9491882,SUCCESS,FIRST_RESULT,2026-09-25T07:33:46.462024+00:00,,
+Benteng Patua,"Kabupaten Wakatobi, Sulawesi Tenggara",Benteng,ChIJz5afYJ8bpy0RVuHPy6pDX1c,Benteng Patua Tomia,"7W9H+Q8P, Patua, Tomia, Wakatobi Regency, South East Sulawesi 93793, Indonesia",4.8,6.0,https://maps.google.com/?cid=6295825204930142550&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.7305433,123.92831729999997,SUCCESS,FIRST_RESULT,2026-09-25T07:33:47.129958+00:00,,
+Benteng Palahidu,"Kabupaten Wakatobi, Sulawesi Tenggara",Benteng,ChIJCUI9YKsJpy0R6ND0UsmVcWM,Pantai Palahidu,"4265+C3G, Palahidu, Binongko, Wakatobi Regency, South East Sulawesi 93794, Indonesia",5.0,11.0,https://maps.google.com/?cid=7165673174035910888&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.8889281,124.00771739999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:47.885177+00:00,,
+Benteng Wali,"Kabupaten Wakatobi, Sulawesi Tenggara",Benteng,ChIJz5afYJ8bpy0RVuHPy6pDX1c,Benteng Patua Tomia,"7W9H+Q8P, Patua, Tomia, Wakatobi Regency, South East Sulawesi 93793, Indonesia",4.8,6.0,https://maps.google.com/?cid=6295825204930142550&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.7305433,123.92831729999997,SUCCESS,FIRST_RESULT,2026-09-25T07:33:48.562658+00:00,,
+Benteng Fort De Kock,"Kota Bukittinggi, Sumatera Barat",Benteng,ChIJbYTOX6M41S8RzjoVbjRPNF0,Fort De Kock,"M9X9+944, Jl. Yos Sudarso, Benteng Ps. Atas, Kec. Guguk Panjang, Kota Bukittinggi, Sumatera Barat 26136, Indonesia",4.5,1783.0,https://maps.google.com/?cid=6716080030920030926&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-0.30162059999999996,100.36783439999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:49.089708+00:00,,
+Benteng Tundakan,"Kabupaten Balangan, Kalimantan Selatan",Benteng,ChIJJ3eTPQBZ5S0R8ajyPIlgtIs,Batu bagantung,"JHGM+23, Tundi, Awayan, Balangan Regency, South Kalimantan 71664, Indonesia",4.3,3.0,https://maps.google.com/?cid=10066777209629223153&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-2.3749375,115.58268749999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:49.577713+00:00,,
+Benteng Gam Lamo,"Kota Ternate, Maluku Utara",Benteng,ChIJz4yQa8S0nDIRmN_JAPna_E8,"Forte Português em Ternaté Moluca , Kastéla","Q866+CV4, Kastela, Pulau Ternate, Ternate City, North Maluku, Indonesia",4.2,318.0,https://maps.google.com/?cid=5763722386122334104&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.7610034999999999,127.31219049999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:50.285815+00:00,,
+Benteng Portugis,"Kabupaten Pesisir Selatan, Sumatera Barat",Benteng,ChIJ5xjc6pFN0y8RE5BXKRUZFPM,Benteng portugis,"JHW5+GH9, Painan, Iv Jurai, South Pesisir Regency, West Sumatra, Indonesia",4.2,35.0,https://maps.google.com/?cid=17515652429429313555&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-1.3537019,100.55899529999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:51.010282+00:00,,
+Benteng Kalamata,"Kota Ternate, Maluku Utara",Benteng,ChIJDxBOQSO0nDIRmyWhzusdVAQ,Kalamata Fortress,"Q96F+V6W, Kayu Merah, Ternate Selatan, Ternate City, North Maluku, Indonesia",4.5,853.0,https://maps.google.com/?cid=311907172816594331&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.7622315,127.3730646,SUCCESS,FIRST_RESULT,2026-09-25T07:33:51.771309+00:00,,
+Benteng Kota Naka,"Kota Ternate, Maluku Utara",Benteng,ChIJxa4k4oOxnDIRiAENh5akZG8,Benteng Portugis Tolukko,"R97Q+J55, Jl. Pemuda, Sangaji Utara, Kec. Kota Ternate Utara, Kota Ternate, Maluku Utara, Indonesia",4.5,1149.0,https://maps.google.com/?cid=8026721402298892680&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.8140206999999999,127.387989,SUCCESS,FIRST_RESULT,2026-09-25T07:33:52.502368+00:00,,
+Benteng Oranye Kwandang,Gorontalo,Benteng,ChIJCfO2n3FPeTIRmBiGFPNMOKI,Benteng Orange,"VW27+6M5, Dambalo, Kwandang, North Gorontalo Regency, Gorontalo 96252, Indonesia",4.2,97.0,https://maps.google.com/?cid=11689177439745218712&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.8505125,122.9142344,SUCCESS,FIRST_RESULT,2026-09-25T07:33:53.199805+00:00,,
+Benteng Amsterdam,Maluku,Benteng,ChIJx0qHxtT6bC0RVVzqKFlU7rI,Fort Amsterdam,"C38M+X84, Kaitetu, Leihitu, Central Maluku Regency, Maluku, Indonesia",4.5,999.0,https://maps.google.com/?cid=12893335525123578965&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-3.5826135000000003,128.08334299999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:53.911635+00:00,,
+Benteng Victoria,Maluku,Benteng,ChIJNdyN8lDobC0RChMAiLU6N-I,Nieuw Victoria Fort,"855J+6VC Benteng New Victoria, Jl. Slamet Riyadi No.1, Uritetu, Kec. Sirimau, Kota Ambon, Maluku 97000, Indonesia",4.1,216.0,https://maps.google.com/?cid=16300561927635997450&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-3.6927869,128.1824825,SUCCESS,FIRST_RESULT,2026-09-25T07:33:54.559554+00:00,,
+Benteng Belgica,Maluku,Benteng,ChIJa_vkAwmGFS0Rp8ER23Plvfo,Fort Belgica,"FVFX+GHV, Nusantara, Kec. Banda, Kabupaten Maluku Tengah, Maluku, Indonesia",4.7,731.0,https://maps.google.com/?cid=18067849565839671719&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-4.526129,129.8989078,SUCCESS,FIRST_RESULT,2026-09-25T07:33:55.274829+00:00,,
+Benteng Titaley,Maluku,Benteng,ChIJmUcpXADjbC0Rxs9gCZ30QPg,Benteng Wawane,"92QX+78V, Seith, Leihitu, Central Maluku Regency, Maluku, Indonesia",5.0,1.0,https://maps.google.com/?cid=17888566675219992518&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-3.6117646000000003,128.04831099999998,SUCCESS,FIRST_RESULT,2026-09-25T07:33:55.757062+00:00,,
+Benteng Kerajaan Kabaena,Sulawesi Tenggara,Benteng,ChIJs6xwXE9Foy0RSO4ndotrAkk,Matarapa,"PVHR+C2M, Tirongkotua, Kabaena, Bombana Regency, South East Sulawesi 93781, Indonesia",,,https://maps.google.com/?cid=5260885561449115208&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.2714193,121.89005879999998,SUCCESS,FIRST_RESULT,2026-09-25T07:33:56.262077+00:00,,
+Benteng Portugis,Sulawesi Utara,Benteng,ChIJu7neUfgNiTIRJuShlZnOTnQ,Benteng Portugis,"P9X6+2GV, Kanawong, West Siau, Sitaro Islands Regency, North Sulawesi, Indonesia",,,https://maps.google.com/?cid=8380863115618804774&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,2.7478678999999997,125.36123479999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:57.005004+00:00,,
+Benteng Kuta Reh,"Kabupaten Aceh Tenggara, Aceh",Benteng,ChIJdVfSGnJOQDAR5ijQtjMuqf8,Benteng Kuta Lubok,"JG5P+WCJ, Lamreh, Mesjid Raya, Aceh Besar Regency, Aceh, Indonesia",4.0,33.0,https://maps.google.com/?cid=18422306550381029606&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,5.6098289,95.5360066,SUCCESS,FIRST_RESULT,2026-09-25T07:33:57.739202+00:00,,
+Benteng Otanaha,"Kota Gorontalo, Gorontalo",Benteng,ChIJ9wzSa8EreTIR0KtoqpUEzCM,Benteng Otanaha,"Dembe I, Kota Barat, Kota Gorontalo, Gorontalo 96181, Indonesia",4.5,2067.0,https://maps.google.com/?cid=2579441727432076240&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.5487601999999999,123.00820849999998,SUCCESS,FIRST_RESULT,2026-09-25T07:33:58.480120+00:00,,
+Benteng Pendhem,"Kabupaten Cilacap, Jawa Tengah",Benteng,ChIJldpOw4QSZS4RvRj43qJTOm4,Benteng Pendem Cilacap,"7229+CHW, Jl. Benteng, Sentolokawat, Cilacap, Kec. Cilacap Sel., Kabupaten Cilacap, Jawa Tengah 53211, Indonesia",4.3,8425.0,https://maps.google.com/?cid=7942752851811899581&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.7488894,109.0189604,SUCCESS,FIRST_RESULT,2026-09-25T07:33:59.241555+00:00,,
+Benteng Portugis,"Kabupaten Jepara, Jawa Tengah",Benteng,ChIJW56p5LwwcS4RvsSX6EAckpA,Portuguese Fortress,"Donorejo, Banyumanis, Kec. Donorojo, Kabupaten Jepara, Jawa Tengah 59454, Indonesia",4.2,3446.0,https://maps.google.com/?cid=10417419953167123646&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-6.4061075,110.91669809999999,SUCCESS,FIRST_RESULT,2026-09-25T07:33:59.984261+00:00,,
+Benteng Voc,"Kabupaten Jepara, Jawa Tengah",Benteng,ChIJIQntpDQfcS4R7y46R-AXFRk,VOC Erfgoedpad-Oud Fort Japara,"CM78+MC7, Ujungbatu V, Ujungbatu, Kec. Jepara, Kabupaten Jepara, Jawa Tengah 59416, Indonesia",5.0,4.0,https://maps.google.com/?cid=1807377077494230767&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-6.5858306,110.6660366,SUCCESS,FIRST_RESULT,2026-09-25T07:34:00.503205+00:00,,
+Benteng Pendem Purworejo,"Kabupaten Purworejo, Jawa Tengah",Benteng,ChIJ4XVhqHnmei4RLwYXBN8gs94,Wisata Benteng Pendem,"Dusun Kalimaro, 523R+GPX, Dusun I, Bapangsari, Kec. Bagelen, Kabupaten Purworejo, Jawa Tengah 54174, Indonesia",4.3,84.0,https://maps.google.com/?cid=16047206039469622831&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.8461402,110.0418614,SUCCESS,FIRST_RESULT,2026-09-25T07:34:01.280587+00:00,,
+Benteng Williem Ii,"Kabupaten Semarang, Jawa Tengah",Benteng,ChIJ3W4nzqKIcC4R8GLSrj6g6B8,Benteng Williem II,"Benteng Williem II, Jl. Diponegoro, Dliwang, Ungaran, Kec. Ungaran Bar., Kabupaten Semarang, Jawa Tengah 50511, Indonesia",,,https://maps.google.com/?cid=2299263800854078192&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.1291506,110.4045521,SUCCESS,FIRST_RESULT,2026-09-25T07:34:02.007595+00:00,,
+Benteng Kuta Asan,"Kabupaten Pidie, Aceh",Benteng,ChIJk4ggLcXsQDARd4IWUpKU4CA,Stadion Kuta Asan,"9XH2+2JQ, Gampong Asan, Kota Sigli, Pidie Regency, Aceh 24112, Indonesia",4.0,95.0,https://maps.google.com/?cid=2369056760160223863&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,5.3775802,95.9516113,SUCCESS,FIRST_RESULT,2026-09-25T07:34:02.773142+00:00,,
+Benteng Sisa Peninggalan Mataram Kuno,"Kabupaten Temanggung, Jawa Tengah",Benteng,ChIJiWFj3B5Xei4RZgVGv2_pJBE,"Oud Kotagêdé , Tjepoeri - Ruïnes van het Koninklijke Fort Mataram","599X+FHC, Jl. Masjid Besar, Purbayan, Kec. Kotagede, Kota Yogyakarta, Daerah Istimewa Yogyakarta 55192, Indonesia",4.5,50.0,https://maps.google.com/?cid=1235368863966037350&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.8313104,110.3989003,SUCCESS,FIRST_RESULT,2026-09-25T07:34:03.276470+00:00,,
+Benteng Tolukko,"Kota Ternate, Maluku Utara",Benteng,ChIJxa4k4oOxnDIRiAENh5akZG8,Benteng Portugis Tolukko,"R97Q+J55, Jl. Pemuda, Sangaji Utara, Kec. Kota Ternate Utara, Kota Ternate, Maluku Utara, Indonesia",4.5,1149.0,https://maps.google.com/?cid=8026721402298892680&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.8140206999999999,127.387989,SUCCESS,FIRST_RESULT,2026-09-25T07:34:03.937051+00:00,,
+Benteng Bernaveld Amasing,"Kabupaten Halmahera Selatan, Maluku Utara",Benteng,ChIJL_1-1I46Yy0R7FFE3PXLAno,Benteng Barnaveld,"9FGJ+8PV Benteng Barnaveld, Labuha, Kec. Bacan, Kabupaten Halmahera Selatan, Maluku Utara, Indonesia",,,https://maps.google.com/?cid=8791813679403520492&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-0.6241325999999999,127.4817266,SUCCESS,FIRST_RESULT,2026-09-25T07:34:04.678891+00:00,,
+Benteng Kubu Parit,"Kabupaten Lingga, Kepulauan Riau",Benteng,ChIJSfDg6UpqJy4Rnp3DAAK2ado,Benteng Bukit Cening,"29872, Daik, Kecamatan Lingga, Merawang, Kec. Lingga, Kabupaten Lingga, Kepulauan Riau 29872, Indonesia",4.8,23.0,https://maps.google.com/?cid=15738310492541918622&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-0.2368458,104.6136185,SUCCESS,FIRST_RESULT,2026-09-25T07:34:05.405684+00:00,,
+Benteng Mepar Berbentuk Segi Empat,"Kabupaten Lingga, Kepulauan Riau",Benteng,ChIJ543AkAxrJy4R8Hh8-is1aMk,Benteng Lekok,"PHRR+G75, Mepar, Lingga, Lingga Regency, Riau Islands, Indonesia",4.4,33.0,https://maps.google.com/?cid=14512908262203750640&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-0.2587405,104.59073389999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:06.133596+00:00,,
+Benteng Kuala Daik,"Kabupaten Lingga, Kepulauan Riau",Benteng,ChIJC-S7VSNqJy4RXXUhK8I6Wrg,Benteng Kuala Daik,"QJFH+HWC, Daik, Lingga, Lingga Regency, Riau Islands 29872, Indonesia",4.1,7.0,https://maps.google.com/?cid=13283994656504378717&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-0.22607170000000001,104.6297517,SUCCESS,FIRST_RESULT,2026-09-25T07:34:06.849536+00:00,,
+Benteng Tanjung Cengkeh,"Kabupaten Lingga, Kepulauan Riau",Benteng,ChIJ_dbvHMttJy4R3QGtyzNVd9s,Benteng Tanjung Cengkeh,"PGMQ+V23, Lingga Regency, Riau Islands 29872, Indonesia",,,https://maps.google.com/?cid=15814202297483592157&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-0.2653596,104.53753309999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:07.533005+00:00,,
+Benteng Oranje,"Kota Ternate, Maluku Utara",Benteng,ChIJ-d9shV6xnDIRp4CbXewWtv8,Fort Oranje,"Benteng oranje, Kec. Ternate Tengah, Kota Ternate, Maluku Utara, Indonesia",4.4,1283.0,https://maps.google.com/?cid=18425940129871528103&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.7928982,127.38741080000001,SUCCESS,FIRST_RESULT,2026-09-25T07:34:08.245207+00:00,,
+Benteng Pertahanan Belanda,"Kabupaten Bengkayang, Kalimantan Barat",Benteng,ChIJaZe9I_U54zER-Rg-0oAPc54,BENTENG VANDERING BENGKAYANG,"Dekat, Q8VP+CW4, Jl. Raya Singkawang-Bengkayang, Suka Maju, Kec. Sungai Betung, Kabupaten Bengkayang, Kalimantan Barat 79211, Indonesia",4.9,16.0,https://maps.google.com/?cid=11417486526271854841&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.7935249,109.3373316,SUCCESS,FIRST_RESULT,2026-09-25T07:34:08.981967+00:00,,
+Benteng Voc Kalimook,"Kabupaten Sumenep, Jawa Timur",Benteng,ChIJuQM77ofk2S0Rjm--ZQdT4jg,Benteng Kalimo'ok,"Jl. Bereklorong, Bereklorong, Kalimo'ok, Kec. Kalianget, Kabupaten Sumenep, Jawa Timur 69471, Indonesia",4.0,70.0,https://maps.google.com/?cid=4098929902097428366&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.034858700000001,113.9069923,SUCCESS,FIRST_RESULT,2026-09-25T07:34:09.695844+00:00,,
+Benteng Lodewijk Mengare,"Kabupaten Gresik, Jawa Timur",Benteng,ChIJ34-F5G0I2C0RXoey9rP44cQ,Fort Lodewijk Ruins,"Tajung Widoro, XJJX+3MX, Bungah, Tajung Widoro, Tj. Widoro, Gresik, Kabupaten Gresik, Jawa Timur 61152, Indonesia",4.1,104.0,https://maps.google.com/?cid=14186893753015502686&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.0197512,112.64924579999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:10.417975+00:00,,
+Benteng Tjakraningrat Iv Tanjoeng Piring,"Kabupaten Bangkalan, Jawa Timur",Benteng,ChIJk_MOr8EF2C0R1bXfCQGgLGk,Cakraningrat Museum,"Jl. Soekarno Hatta No.35, Wr 08, Mlajah, Kec. Bangkalan, Kabupaten Bangkalan, Jawa Timur 69116, Indonesia",4.1,80.0,https://maps.google.com/?cid=7578608199278769621&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.0485530999999995,112.7354412,SUCCESS,FIRST_RESULT,2026-09-25T07:34:11.129813+00:00,,
+Benteng Erfprins,"Kabupaten Bangkalan, Jawa Timur",Benteng,ChIJ2Tw4S30P2C0RJdmm2iFukYU,Fort Bangkalan,"XQG2+7C6, Pejagan, Kec. Bangkalan, Kabupaten Bangkalan, Jawa Timur 69112, Indonesia",4.1,46.0,https://maps.google.com/?cid=9624594970348804389&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.0243478,112.75101529999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:11.824057+00:00,,
+Benteng Bukit Cening,"Kabupaten Lingga, Kepulauan Riau",Benteng,ChIJSfDg6UpqJy4Rnp3DAAK2ado,Benteng Bukit Cening,"29872, Daik, Kecamatan Lingga, Merawang, Kec. Lingga, Kabupaten Lingga, Kepulauan Riau 29872, Indonesia",4.8,23.0,https://maps.google.com/?cid=15738310492541918622&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-0.2368458,104.6136185,SUCCESS,FIRST_RESULT,2026-09-25T07:34:12.470453+00:00,,
+Keraton Matan Tanjungpura,"Kabupaten Ketapang, Kalimantan Barat",Istana,ChIJ347MbyQYBS4RAr1hKlBQIEU,Keraton Matan Kayong Ketapang,"4XQJ+89J, Mulia Kerta, Benua Kayong, Ketapang Regency, West Kalimantan 78821, Indonesia",4.5,638.0,https://maps.google.com/?cid=4981069493110422786&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-1.8616617999999996,109.9808834,SUCCESS,FIRST_RESULT,2026-09-25T07:34:13.209286+00:00,,
+Istana Kuning Kesultanan Kutaringin,"Kabupaten Kotawaringin Barat, Kalimantan Tengah",Istana,ChIJU08Kj0LuCC4RDVkNOfMKCwM,Istana Kuning,"Raja, South Arut, West Kotawaringin Regency, Central Kalimantan 74112, Indonesia",4.4,2790.0,https://maps.google.com/?cid=219281046608107789&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-2.6760267,111.63256319999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:13.962217+00:00,,
+Keraton Kesultanan Sambaliung,"Kabupaten Berau, Kalimantan Timur",Istana,ChIJ-03ozaH1DTIRGnVEGkRKLx4,Keraton Sambaliung,"5G82+8GV, Jl. ST Aminuddin, Sambaliung, Kec. Sambaliung, Kabupaten Berau, Kalimantan Timur 77352, Indonesia",4.4,667.0,https://maps.google.com/?cid=2175038801402164506&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,2.1645396,117.4993949,SUCCESS,FIRST_RESULT,2026-09-25T07:34:14.274993+00:00,,
+Keraton Kesultanan Ternate,"Kota Ternate, Maluku Utara",Istana,ChIJZVvaQGKxnDIRMHgFCLBLpb4,The Ternate Sultanate Museum and Palace,"Soa Sio, Kota Ternate Utara, Ternate City, North Maluku, Indonesia",4.5,994.0,https://maps.google.com/?cid=13737469457784469552&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.8004437,127.3840432,SUCCESS,FIRST_RESULT,2026-09-25T07:34:14.970195+00:00,,
+Istana Kesultanan Pelalawan,"Kabupaten Pelalawan, Riau",Istana,ChIJMciFXAB51jERodIICvw0YEc,Istana Sayap Pelalawan,"C3WV+7XG, Pelalawan, Pelalawan Regency, Riau 28353, Indonesia",5.0,1.0,https://maps.google.com/?cid=5143169031561859745&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.44567670000000004,102.0949495,SUCCESS,FIRST_RESULT,2026-09-25T07:34:15.695401+00:00,,
+Istana Rokan,"Kabupaten Rokan Hulu, Riau",Istana,ChIJ2R4XwUTYKjARMLqkhcgys5g,Istana Raja Rokan قصر سلطنة ركان,"HC84+RR6, Rokan Koto Ruang, Rokan IV Koto, Rokan Hulu Regency, Riau 28555, Indonesia",4.4,156.0,https://maps.google.com/?cid=11003194151413266992&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,0.5670406,100.40702759999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:16.472407+00:00,,
+Istana Maimun,"Kota Medan, Sumatera Utara",Istana,ChIJWdQggUkwMTAR5FfxVEYJD8g,Istana Maimun,"Istana Maimun, A U R, Kec. Medan Maimun, Kota Medan, Sumatera Utara 20212, Indonesia",,,https://maps.google.com/?cid=14415751129913710564&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,3.5751606,98.68451379999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:17.168385+00:00,,
+Istana Mande Rubiah,"Kabupaten Pesisir Selatan, Sumatera Barat",Istana,ChIJkznEooVvLS4RHtPgEfJhaAw,Rumah Mande Rubiah,"Lunang, South Pesisir Regency, West Sumatra 25674, Indonesia",4.6,121.0,https://maps.google.com/?cid=894072218342970142&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-2.252197,101.1264927,SUCCESS,FIRST_RESULT,2026-09-25T07:34:17.729159+00:00,,
+Istana Cilegon,"Kota Cilegon, Banten",Istana,ChIJ6zst4oOPQS4R3dNj8BjeYo8,Istana Pasir Cilegon,"X279+8XX, Lebakdenok, Citangkil, Cilegon, Banten 42442, Indonesia",4.1,363.0,https://maps.google.com/?cid=10332064693834994653&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-6.036633699999999,106.0199926,SUCCESS,FIRST_RESULT,2026-09-25T07:34:18.511638+00:00,,
+Keraton Mataram,"Kabupaten Wonosobo, Jawa Tengah",Istana,ChIJlQhsmaBXei4R3603t_lF-yI,Kompleks Keraton Mataram Pleret,"Jl. Kauman No.34, Kauman, Pleret, Kec. Pleret, Kabupaten Bantul, Daerah Istimewa Yogyakarta 55791, Indonesia",4.4,5.0,https://maps.google.com/?cid=2520685355266977247&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.8662208,110.40632319999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:19.221407+00:00,,
+Istana Mataram,"Kabupaten Madiun, Jawa Timur",Istana,ChIJhSDOA-RKeC4RNGIReMc3N24,OYO 1984 Hotel Istana Family Syariah,"Jl. Raya Madiun - Surabaya No.Km.1, Sanggrahan, Kedondong, Kec. Bagor, Kabupaten Nganjuk, Jawa Timur 64461, Indonesia",3.5,584.0,https://maps.google.com/?cid=7941877797743583796&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.5898381,111.8868846,SUCCESS,FIRST_RESULT,2026-09-25T07:34:19.968704+00:00,,
+Keraton Bumi Kencana Martapura,"Kabupaten Banjar, Kalimantan Selatan",Istana,ChIJvdbTS5Aq5C0RlWl0KoNeWVo,Makam Pangeran MuhammadNur Bumi Kencana,"Tambak Anyar Ulu, Kec. Martapura Tim., Kabupaten Banjar, Kalimantan Selatan 70619, Indonesia",4.3,8.0,https://maps.google.com/?cid=6510338653786761621&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-3.3859353999999997,114.87030829999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:20.717140+00:00,,
+Istana Gebang,"Kota Blitar, Jawa Timur",Istana,ChIJRRn0rW_seC4RIHuX6cm2HkA,Istana Gebang Blitar,"Jl. Sultan Agung No.59, Sananwetan, Kec. Sananwetan, Kota Blitar, Jawa Timur 66137, Indonesia",4.6,4993.0,https://maps.google.com/?cid=4620331246052408096&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-8.0982156,112.17626779999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:21.226685+00:00,,
+Kompleks Istana Balla Lompoa,"Kabupaten Gowa, Sulawesi Selatan",Istana,ChIJUyYblCXivi0R3hCr1lbjR1s,Balla Lompoa Museum,"Jl. K. H. Wahid Hasyim No.39, Sungguminasa, Kec. Somba Opu, Kabupaten Gowa, Sulawesi Selatan 92111, Indonesia",4.5,2295.0,https://maps.google.com/?cid=6577475742906126558&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.207177,119.45246799999998,SUCCESS,FIRST_RESULT,2026-09-25T07:34:21.759015+00:00,,
+Keraton Sumenep,"Kabupaten Sumenep, Jawa Timur",Istana,ChIJd8dwESvk2S0RzbOjIcZMLDk,Sumenep Palace Museum,"XVR8+32M, Jl. Dr. Sutomo No.6, Lingkungan Delama, Pajagalan, Kec. Kota Sumenep, Kabupaten Sumenep, Jawa Timur 69416, Indonesia",4.6,2301.0,https://maps.google.com/?cid=4119752172988773325&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.008117599999999,113.86286589999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:22.317710+00:00,,
+Keraton Ratu Boko,Yogyakarta,Istana,ChIJRf5U05Jaei4RW_l2RPFEPxU,Keraton Ratu Boko,"Jl. Ratu Boko No.2, Gatak, Bokoharjo, Kec. Prambanan, Kabupaten Sleman, Daerah Istimewa Yogyakarta 55572, Indonesia",4.7,16110.0,https://maps.google.com/?cid=1531018201355712859&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.770568300000001,110.48614219999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:22.774863+00:00,,
+Istana Bogor,"Kota Bogor, Jawa Barat",Istana,ChIJzZZxLcbFaS4RJms1A9iKcrk,Bogor Palace,"Istana Bogor, Jl. Ir. H. Juanda, RT.04/RW.01, Palédang, Bogor Tengah, Bogor, Kecamatan Bogor Tengah, Kota Bogor, Jawa Kulon 16122, Indonesia",,,https://maps.google.com/?cid=13362895704733084454&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-6.5980046,106.79746659999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:23.490639+00:00,,
+Istana Presiden Cipanas,"Kabupaten Cianjur, Jawa Barat",Istana,ChIJAQAAAIS0aS4RWw0YoGp-xHw,Cipanas Presidential Palace,"Jl. Raya Cipanas No.105, Cipanas, Kec. Cipanas, Kabupaten Cianjur, Jawa Barat 43253, Indonesia",4.7,4493.0,https://maps.google.com/?cid=8990449752555916635&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-6.7335652,107.0410261,SUCCESS,FIRST_RESULT,2026-09-25T07:34:24.246332+00:00,,
+Keraton Kaibon,"Kota Serang, Banten",Istana,ChIJax4cbC3zQS4RVX3NmpTk3o0,Kaibon Palace,"Kasunyatan, 42191 Kesemen, Serang, Indonesia, X546+H9C, Jl. Raya, Kasunyatan, Kasemen, Serang City, Banten 42191, Indonesia",4.5,2372.0,https://maps.google.com/?cid=10222859531081055573&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-6.0430556,106.16,SUCCESS,FIRST_RESULT,2026-09-25T07:34:24.793718+00:00,,
+Keraton Surosowan,"Kota Serang, Banten",Istana,ChIJY4wkT8aNQS4RyJue-S7hIiU,Keraton Surosowan,"X564+GRP, Jl. Masjid Agung Banten, Banten, Kec. Kasemen, Kota Serang, Banten 42191, Indonesia",4.7,1155.0,https://maps.google.com/?cid=2675948720484162504&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-6.0386698999999995,106.1570776,SUCCESS,FIRST_RESULT,2026-09-25T07:34:25.537820+00:00,,
+Istana Air Taman Sari,Yogyakarta,Istana,ChIJ_wJqNvNXei4RwRPQcVxLFcs,Gedhong Gapura Hageng Istana Air Taman Sari - ꦒꦥꦸꦫꦠꦩꦤ꧀ꦱꦫꦶ,"59R5+2CF, Patehan, Kraton, Yogyakarta City, Special Region of Yogyakarta 55133, Indonesia",4.6,25.0,https://maps.google.com/?cid=14633685424628831169&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.809939699999999,110.35855889999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:26.037695+00:00,,
+Istana Kamali Bata,Sulawesi Tenggara,Istana,ChIJ0RhaLTRxpC0Rh1E2mle3cHs,"Museum Istana Kamali Baadia, Pusat Kebudayaan Wolio","GJ92+PWR, Baadia, Murhum, Bau-Bau City, South East Sulawesi 93711, Indonesia",4.5,26.0,https://maps.google.com/?cid=8894810850934018439&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.480647299999999,122.6022593,SUCCESS,FIRST_RESULT,2026-09-25T07:34:26.746988+00:00,,
+Istana Kamali Kara,Sulawesi Tenggara,Istana,ChIJ0RhaLTRxpC0Rh1E2mle3cHs,"Museum Istana Kamali Baadia, Pusat Kebudayaan Wolio","GJ92+PWR, Baadia, Murhum, Bau-Bau City, South East Sulawesi 93711, Indonesia",4.5,26.0,https://maps.google.com/?cid=8894810850934018439&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.480647299999999,122.6022593,SUCCESS,FIRST_RESULT,2026-09-25T07:34:27.452413+00:00,,
+Istana Malige,Sulawesi Tenggara,Istana,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Istana Kamali Baadia,Sulawesi Tenggara,Istana,ChIJ0RhaLTRxpC0Rh1E2mle3cHs,"Museum Istana Kamali Baadia, Pusat Kebudayaan Wolio","GJ92+PWR, Baadia, Murhum, Bau-Bau City, South East Sulawesi 93711, Indonesia",4.5,26.0,https://maps.google.com/?cid=8894810850934018439&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-5.480647299999999,122.6022593,SUCCESS,FIRST_RESULT,2026-09-25T07:34:28.176571+00:00,,
+Keraton Kaprabonan,Jawa Barat,Istana,ChIJOYsb433ibi4RTyc1ct_TAHI,Kaprabonan Palace,"Jl. Lemahwungkuk, Lemahwungkuk, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45111, Indonesia",4.5,95.0,https://maps.google.com/?cid=8214798676971038543&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-6.721337300000001,108.56926860000002,SUCCESS,FIRST_RESULT,2026-09-25T07:34:28.648921+00:00,,
+Keraton Kacirebonan,Jawa Barat,Istana,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Keraton Kanoman,Jawa Barat,Istana,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Keraton Kasepuhan,Jawa Barat,Istana,ChIJq6qq6mPibi4RlfEd-8sY6iA,Keraton Kasepuhan,"Jl. Kasepuhan No.43, Kesepuhan, Kec. Lemahwungkuk, Kota Cirebon, Jawa Barat 45114, Indonesia",4.5,17557.0,https://maps.google.com/?cid=2371735418134458773&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-6.7260285,108.57086919999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:29.941135+00:00,,
+Keraton Ngayogyakarta,"Kota Yogyakarta, Yogyakarta",Istana,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Keraton Kartasura,"Kabupaten Sukoharjo, Jawa Tengah",Istana,ChIJvcFCFOkUei4Rc4Mm4UNCP2o,Keraton Kartosuro,"CPRR+M43, Dusun II, Ngadirejo, Kec. Kartasura, Kabupaten Sukoharjo, Jawa Tengah 57163, Indonesia",4.5,1245.0,https://maps.google.com/?cid=7655910750860772211&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.5583608,110.7403039,SUCCESS,FIRST_RESULT,2026-09-25T07:34:30.525696+00:00,,
+Keraton Sultan Bacan Labuha,"Kabupaten Halmahera Selatan, Maluku Utara",Istana,ChIJg39NNIY6Yy0RQPNbvPI28h0,Keraton Kesultanan Bacan,"9FFH+J32, Amasing Kota, Kec. Bacan, Kabupaten Halmahera Selatan, Maluku Utara",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Kuil Shri Mariamman,"Kota Medan, Sumatera Utara",Kuil,ChIJaexxOdQxMTARt3BU1MPMyK0,Mariamman Temple,"Jl. Teuku Umar No.18, Petisah Tengah, Kec. Medan Petisah, Kota Medan, Sumatera Utara 20151, Indonesia",4.6,1004.0,https://maps.google.com/?cid=12522483905356656823&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,3.5839019999999997,98.671177,SUCCESS,FIRST_RESULT,2026-09-25T07:34:31.946157+00:00,,
+Makam Para Ulama,"Kabupaten Pidie, Aceh",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Mbah Raden,"Kabupaten Nganjuk, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Kanjeng Jimat,"Kabupaten Nganjuk, Jawa Timur",Makam,ChIJeynvxYFNeC4Rj6SdGXBbXGk,Makam Kanjeng Djimat,"8VQ8+X3W, Gerekan, Kacangan, Kec. Berbek, Kabupaten Nganjuk, Jawa Timur 64473",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Makam Batuampar,"Kabupaten Pamekasan, Jawa Timur",Makam,ChIJZX2rVTEr2C0RDrCDp1sq5MA,Makam Wali Batu Ampar Barat,"Dusun Batu Ampar, Pangbatok, Kec. Proppo, Kabupaten Pamekasan, Jawa Timur 69363, Indonesia",4.4,153.0,https://maps.google.com/?cid=13899280923113009166&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.098096699999999,113.37648449999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:33.988727+00:00,,
+Makam Kyai Ratoh Sumber Anyar,"Kabupaten Pamekasan, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kuburan Madegan,"Kabupaten Sampang, Jawa Timur",Makam,ChIJZbQ1IVGG1y0R0dXdVW_wAAU,MASJID JAMIK MADEGAN - POLAGAN - SAMPANG,"Q6RJ+QXF, Rw. II, Polagan, Kec. Sampang, Kabupaten Sampang, Jawa Timur 69216",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Pasarean Syech Maulana Ishaq,"Kabupaten Situbondo, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pasarean Agung Saifudin,"Kabupaten Situbondo, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Raden Tjondrokusumo,"Kabupaten Situbondo, Jawa Timur",Makam,ChIJDwEgBgAr0S0RXYrSxU1k5SE,Makam Raden Condro Kusomo,"656R+FH5, Area Hutan, Mojosari, Kec. Asembagus, Kabupaten Situbondo, Jawa Timur 68373, Indonesia",,,https://maps.google.com/?cid=2442468658112531037&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.7888522,114.1914951,SUCCESS,FIRST_RESULT,2026-09-25T07:34:36.235748+00:00,,
+Petilasan Syekh Maulana Ishaq,"Kabupaten Situbondo, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Masjid Kuno Kuncen,"Kabupaten Madiun, Jawa Timur",Makam,ChIJq2Zxy9e9eS4RwIQ2mUGijPg,Makam Kuno Kuncen Kota Madiun,"8GV7+8JF, Kuncen, Kec. Madiun, Kota Madiun, Jawa Timur 63135",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Makam Ke Pate Alos,"Kabupaten Situbondo, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syeh Maulana Ibrahim Asmaraqandi,"Kabupaten Tuban, Jawa Timur",Makam,ChIJgWGDeRqWdy4Rtwn8qYSbu8o,Makam Syekh Maulana Ibrahim Asmoro Qondi,"Jl. Raya Daendles, Rembes, Gesikharjo, Kec. Palang, Kabupaten Tuban, Jawa Timur 62391",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Makam Sunan Bejagung Lor,"Kabupaten Tuban, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Bejagung Kidul,"Kabupaten Tuban, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syekh Achmad Cholil,"Kabupaten Tuban, Jawa Timur",Makam,ChIJLwMjrkekdy4R6bBTmEsl2J8,The Tomb of Sheikh Ahmad Kholil,"6X4H+7C7, Rawasan, Kec. Jenu, Kabupaten Tuban, Jawa Timur 62352, Indonesia",4.7,22.0,https://maps.google.com/?cid=11517997053608440041&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-6.7943346,111.9785319,SUCCESS,FIRST_RESULT,2026-09-25T07:34:39.355607+00:00,,
+Makam Sunan Gesing,"Kabupaten Tuban, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syekh Subakir,"Kabupaten Tuban, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Kuno Mbah Wassil,"Kota Kediri, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Ampel,"Kota Surabaya, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Datu Kayan,"Kabupaten Barito Kuala, Kalimantan Selatan",Makam,ChIJs76XlNci5C0RsbLqu5m4u_c,Makam Datu Kayan,"PHMC+H3P, Berangas, Kec. Alalak, Kabupaten Barito Kuala, Kalimantan Selatan 70126",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Makam Sunan Bonang,"Kabupaten Tuban, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Datu Aminin,"Kabupaten Barito Kuala, Kalimantan Selatan",Makam,ChIJH_WXj4kj5C0Rl9Qa-cRnkn0,Makam Pahlawan Datu Gusti Aminin,"Jl. Desa Pulau Sugara No.15, Berangas, Kec. Alalak, Kabupaten Barito Kuala, Kalimantan Selatan 70582, Indonesia",3.7,6.0,https://maps.google.com/?cid=9048408697031283863&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-3.2601234,114.5658947,SUCCESS,FIRST_RESULT,2026-09-25T07:34:42.131932+00:00,,
+Makam Masjid Kuno Taman,"Kabupaten Madiun, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Dewi Sekardadu,"Kabupaten Lamongan, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ki Ageng Trenggonokusumo,"Kabupaten Temanggung, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ssayyid,"Kabupaten Temanggung, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ki Ageng Makukuhan,"Kabupaten Temanggung, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syaikhona Muhammad Kholil,"Kabupaten Bangkalan, Jawa Timur",Makam,ChIJE5I8g-YF2C0RRcBRpizteoI,MAKAM SYAIKHONA KHOLIL BANGKALAN,"XP5F+58P, Jl. Mertajasah, Tajasah, Mertajasah, Kec. Bangkalan, Kabupaten Bangkalan, Jawa Timur 69119",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Makam Bujuk Cendana,"Kabupaten Bangkalan, Jawa Timur",Makam,ChIJiSFhDgsd2C0RG1puXn3HKnk,Makam Sunan Cendana,"RVR4+F2P, Ketetang, Kec. Kwanyar, Kabupaten Bangkalan, Jawa Timur 69163, Indonesia",4.6,49.0,https://maps.google.com/?cid=8731010168880257563&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-7.158796,112.8550829,SUCCESS,FIRST_RESULT,2026-09-25T07:34:44.970555+00:00,,
+Makam Raja-Raja Bangkalan,"Kabupaten Bangkalan, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Wali Kidangan,"Kabupaten Bojonegoro, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Buyut Dalem,"Kabupaten Bojonegoro, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Mbah Malang Negoro,"Kabupaten Bojonegoro, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Dewi Andongsaroli,"Kabupaten Lamongan, Jawa Timur",Makam,ChIJAePXatgheC4RNGsm7xsFuDA,Nyai Dewi Andong Sari,"Jl. Masriah No.01, Area Sawah/ Hutan, Sekidang, Kec. Sambeng, Kabupaten Lamongan, Jawa Timur 62284",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Makam Maulana Malik Ibrahim,"Kabupaten Gresik, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Prapen,"Kabupaten Gresik, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Fatimah Binti Maimun,"Kabupaten Gresik, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Kanjeng Sepuh,"Kabupaten Gresik, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Petilasan Sunan Kalijaga,"Kabupaten Gresik, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Tan Malaka,"Kabupaten Kediri, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Gus Miek,"Kabupaten Kediri, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Drajat,"Kabupaten Lamongan, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Sendang Duwur,"Kabupaten Lamongan, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Lamongan,"Kabupaten Lamongan, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Giri,"Kabupaten Gresik, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Pangeran Agung Alias Adji Pati,"Kabupaten Tanah Bumbu, Kalimantan Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Komplek Makam Sultan Suriansyah,"Kota Banjarmasin, Kalimantan Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Komplek Makam Pangeran Antasari,"Kota Banjarmasin, Kalimantan Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Keramat Tanjung Lilin,"Kota Payakumbuh, Sumatera Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Pangeran Peranpati,"Kabupaten Ogan Komering Ulu Timur, Sumatera Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ratu Bagus Baginda Ali,"Kabupaten Ogan Komering Ulu Timur, Sumatera Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Abdullah Gelar Raden Bebas Abdul Malik Gelar Mas Purba,"Kabupaten Ogan Komering Ulu Timur, Sumatera Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Mangku Yuda,"Kabupaten Ogan Komering Ulu Timur, Sumatera Selatan",Makam,ChIJX1mpNwA5OC4RV_rJcVln7Lg,Makam pangeran mangkuyudha,"HV43+8F7, Sura, Runjung Agung, South Ogan Komering Ulu Regency, South Sumatra 32272, Indonesia",5.0,1.0,https://maps.google.com/?cid=13325139031341267543&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-4.4444595,103.8542389,SUCCESS,FIRST_RESULT,2026-09-25T07:34:51.002147+00:00,,
+Makam Muyang Tuan Raja Benar,"Kabupaten Ogan Komering Ulu Timur, Sumatera Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Muyang Putih,"Kabupaten Ogan Komering Ulu Timur, Sumatera Selatan",Makam,ChIJ9X0viBprOS4RBQSwkQ4SF18,Makam Puyang Putih,"4J6F+GGF, Betung, Semendawai Barat, East Ogan Komering Ulu Regency, South Sumatra 32184, Indonesia",,,https://maps.google.com/?cid=6851965211850572805&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-3.8886913999999995,104.6238048,SUCCESS,FIRST_RESULT,2026-09-25T07:34:51.796220+00:00,,
+Makam Muyang Maulana Sakti,"Kabupaten Ogan Komering Ulu Timur, Sumatera Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Oppu Parmata Sapihak,"Kabupaten Padang Lawas, Sumatera Utara",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Pahlawan Nasional Ibu Maria Walanda Maramis,"Kabupaten Minahasa Utara, Sulawesi Utara",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pekuburan Brahrang,"Kota Binjai, Sumatera Utara",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pekuburan Marcapada,"Kota Binjai, Sumatera Utara",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Tionghoa,"Kota Tangerang, Banten",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Panglima Ratu Samban,"Kabupaten Bengkulu Utara, Bengkulu",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syekh Tubagus Ahmad Bakri As,"Kabupaten Purwakarta, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Gedong Ageng,"Kabupaten Blora, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Islam,"Kabupaten Bangkalan, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syech Husen,"Kabupaten Bangkalan, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Anusapati,"Kabupaten Malang, Jawa Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kuburan Panglima Ali,"Kabupaten Bangka Selatan, Kepulauan Bangka Belitung",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pekuburan Rambung,"Kota Binjai, Sumatera Utara",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Raja-Raja Tallo,"Kota Makassar, Sulawesi Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Pongtiku,"Kabupaten Toraja Utara, Sulawesi Selatan",Makam,ChIJW2nVNLbAky0R__UdrAMFlbg,Makam Pahlawan Pongtiku,"3RW6+68G, Pangala' Utara, Kec. Rindingalo, Kabupaten Toraja Utara, Sulawesi Selatan 91862",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Makam Syech Yusuf,"Kabupaten Gowa, Sulawesi Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Raja-Raja Kesultanan Gunung Tabur,"Kabupaten Berau, Kalimantan Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kompleks Makam Raja-Raja,"Kabupaten Paser, Kalimantan Timur",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Tentara Jepang,"Kota Tarakan, Kalimantan Utara",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Belanda,"Kota Pangkal Pinang, Kepulauan Bangka Belitung",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kompleks Makam Temenggung Jamaludin,"Kabupaten Lingga, Kepulauan Riau",Makam,ChIJMeVYL2Xt2TERgzDYjbZ4WnE,Makam Temenggung Abdul Jamal,"2VCJ+544, Bulang Lintang, Bulang, Batam City, Riau Islands, Indonesia",3.7,7.0,https://maps.google.com/?cid=8167973599648952451&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,1.0203966,103.88031769999999,SUCCESS,FIRST_RESULT,2026-09-25T07:34:56.537316+00:00,,
+Datuk Kaya Montel,"Kabupaten Lingga, Kepulauan Riau",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kompleks Makam Temenggung Jamaludin Dan Datuk Kaya Montel,"Kabupaten Lingga, Kepulauan Riau",Makam,ChIJ7TLtKYJpJy4RgvcxXRuTRAs,Makam Sultan Mahmud Riayat Syah,"QJP7+XV6, Daik, Kec. Lingga, Kabupaten Lingga, Kepulauan Riau 29872",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Makam Megat Kuning,"Kabupaten Lingga, Kepulauan Riau",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Kh Ghalib Pringsewu Barat Pringsewu,"Kabupaten Pringsewu, Lampung",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Raja-Raja Taebenu,"Kota Kupang, Nusa Tenggara Timur",Makam,ChIJm9ZfHYWcViwRClyKaNaYDjs,Kompleks pemakaman Raja Taebenu,"RHHJ+2QH, Manutapen, Alak, Kupang City, East Nusa Tenggara, Indonesia",5.0,3.0,https://maps.google.com/?cid=4255506744556018698&g_mp=CiVnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLkdldFBsYWNlEAIYBCAA,-10.172447799999999,123.5819858,SUCCESS,FIRST_RESULT,2026-09-25T07:34:58.296894+00:00,,
+Makam Mahmud Syah,"Kabupaten Pelalawan, Riau",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Komplek Makam Raja-Raja Pelalawan,"Kabupaten Pelalawan, Riau",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Panglima Kudin,"Kabupaten Pelalawan, Riau",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Raja-Raja Rambah,"Kabupaten Rokan Hulu, Riau",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Wae Tenri Leleang,"Kabupaten Barru, Sulawesi Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Petta Pallaselasee,"Kabupaten Barru, Sulawesi Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam We Pancai Tana,"Kabupaten Barru, Sulawesi Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Lamaddusila,"Kabupaten Barru, Sulawesi Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Karaeng Lipukasi,"Kabupaten Barru, Sulawesi Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sultan Hasanuddin,"Kabupaten Gowa, Sulawesi Selatan",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Arung Palakka,"Kabupaten Gowa, Sulawesi Selatan",Makam,ChIJyZWqawDjvi0RGOFkt6q9TJI,Makam Sultan Saaduddin Arung Palakka,"RC4W+M6M, Katangka, Kec. Somba Opu, Kabupaten Gowa, Sulawesi Selatan 90221",,,,,,,,,API_ERROR,DETAILS_API_ERROR
+Makam Ki Ageng Purwoto Sidik,"Kabupaten Sukoharjo, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ki Ageng Sutowijoyo,"Kabupaten Sukoharjo, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syeh Ahmad Mutamakkin,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Mahapatih Batik Madrim,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syekh Magelung Sakti,"Kabupaten Cirebon, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Talun,"Kabupaten Cirebon, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Buyut Trusmi,"Kabupaten Cirebon, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Godog,"Kabupaten Garut, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Cinunuk Hilir,"Kabupaten Garut, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Pangeran Muhammad,"Kabupaten Majalengka, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Siti Armilah,"Kabupaten Majalengka, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Parung,"Kabupaten Majalengka, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Baing Yusuf,"Kabupaten Purwakarta, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Nyi Mas Gandasari,"Kabupaten Cirebon, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Mama Sempur,"Kabupaten Purwakarta, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Embah Tumpang,"Kota Cimahi, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Kalijaga,"Kabupaten Demak, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Raden Patah,"Kabupaten Demak, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ki Ageng Selo,"Kabupaten Grobogan, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ki Ageng Tarub,"Kabupaten Grobogan, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ki Ageng Getas Pendowo,"Kabupaten Grobogan, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syekh Siti Jenar,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Mbah Roboyo,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Datuk Gunardi,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Raden Aria Wangsa Goparana,"Kabupaten Subang, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Keramat Megu,"Kabupaten Cirebon, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Balong Keramat Tuk,"Kabupaten Cirebon, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Petilasan Cimandung,"Kabupaten Cirebon, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kuburan Kerkhoff,Aceh,Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sentot Alibasyah,Bengkulu,Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Auliya Male Ta Illayabe,Gorontalo,Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Akik Ning,Kepulauan Bangka Belitung,Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Atok Banjar,Kepulauan Bangka Belitung,Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kuburan Borgo,Sulawesi Utara,Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kuburan Kerkhoff Kuburan Belanda,Sulawesi Utara,Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pemakaman Imogiri,Yogyakarta,Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ki Ageng Balak,"Kabupaten Sukoharjo, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Raja Haji,Kepulauan Riau,Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kuburan Batee Meuculek,"Kabupaten Aceh Barat Daya, Aceh",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syeh Mahmud,"Kabupaten Aceh Barat Daya, Aceh",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Laksamana Malahayati,"Kabupaten Aceh Besar, Aceh",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Kramat Du Panggola,"Kota Gorontalo, Gorontalo",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Kramat Tajailoyibuo,"Kota Gorontalo, Gorontalo",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Aulia Raja Ilato,"Kota Gorontalo, Gorontalo",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Aulia Male Tailayabe,"Kota Gorontalo, Gorontalo",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Pangeran Jayakarta,"Jakarta Timur, Jakarta",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sultan Thaha,"Kabupaten Tebo, Jambi",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Karl Adolf Bosscha,"Kabupaten Bandung Barat, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Gunung Jati,"Kabupaten Cirebon, Jawa Barat",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Habib Ali,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syeh Abu Bakar,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pemakaman Girigondo,Yogyakarta,Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syeh Amir Hasan,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Petilasan Krapyak,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Pengeran Benowo,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Kudus,"Kabupaten Kudus, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Muria,"Kabupaten Kudus, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Kedu,"Kabupaten Kudus, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syeh Syadzili,"Kabupaten Kudus, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Kyai Telingsing,"Kabupaten Kudus, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Keluarga Trah Tjondronegoro Iii,"Kabupaten Kudus, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Mbah Tanggulangin,"Kabupaten Kudus, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Kyai Asyari,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sedo Mukti,"Kabupaten Kudus, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Nyai Ageng Ngerang,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syeh Jangkung,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Mbah Tabek Merto,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Ngerang,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Syeh Ronggo Kusumo,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Prawoto,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Bandung Bondowoso Ratu Pengging,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Prabu Angling Dharma,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ki Gede,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sosro Kartono Para Bupati,"Kabupaten Kudus, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Abinowo,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Makhdum Pimpinan Walisongo I,"Kabupaten Pati, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Pangeran Djoeminah,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Tumenggung Mertowijoyo,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Ronggo Kusumo,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Mbah Datuk Subuh,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Mbah Pakisaji,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kh Noor Ahmad Ss,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Habib Sodiq Dan Kh Noor Ahmad Ss,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Assayyid Thoyyib Thohir,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Syaikh Syamsuri,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Assayyid Thoyyib Thohir Dan Syaikh Syamsuri,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Pangeran Syarif,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Habib Sodiq,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Pangeran Syarif Dan Mbah Jenggolo,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Mbah Jenggolo,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Wali Joko,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Kyai Mandurorejo Protomulyo Kaliwungu Selatan Kabupaten Kendal,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Bromo,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Wali Gembyang,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Hadirin Dan Ratu Kalinyamat Serta Raden Abdul Jalil,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Ratu Kalinyamat Serta Raden Abdul Jalil,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Sunan Hadirin,"Kabupaten Jepara, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Makam Wali Hadi,"Kabupaten Kendal, Jawa Tengah",Makam,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid,"Kabupaten Halmahera Selatan, Maluku Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Ridwanul Bahri,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Munawwaroh Ternate,"Kota Ternate, Maluku Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Tua Patimburak Masjid Tertua,"Kabupaten Fakfak, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Merdeka,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Ishlah,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Ikhlas Korem,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Dan Keraton Sultan Bacan Labuha,"Kabupaten Halmahera Selatan, Maluku Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid At Taqwa,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Madinah,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Istiqlal,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid As Sakinah,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Darussalam,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Falah,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Nurul Fatah,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Darul Ulum,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Taqwa,"Kota Metro, Lampung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Sultan Lingga,"Kabupaten Lingga, Kepulauan Riau",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Taqwa Kota Metro,"Kota Metro, Lampung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Istiqomah,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Mutaqin,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Nurul Iman,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jabalussuada,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Darussalam,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Munawwar,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Hidayah,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Nurul Huda,"Kota Metro, Lampung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jabalussalam,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Al-Furqon Bandar Lampung,"Kota Bandar Lampung, Lampung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al-Anwar,"Kota Bandar Lampung, Lampung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Taqwa,"Kota Bandar Lampung, Lampung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al-Abror,"Kota Bandar Lampung, Lampung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Nurul Ulum,"Kota Bandar Lampung, Lampung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al-Muhajirin,"Kota Bandar Lampung, Lampung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Babusalam,"Kota Bandar Lampung, Lampung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami,"Kota Pangkal Pinang, Kepulauan Bangka Belitung",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Nurul Qolbi,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Abrar Titipapan,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Nasional Madani Islamic Centre,"Kabupaten Rokan Hulu, Riau",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Baitul Amal Martubung,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Iman Marelan Pasar Ii,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Al Qanitin Sei Sikambing,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Cipto Mulyo,"Kabupaten Boyolali, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami,"Kabupaten Purworejo, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Surakarta,"Kota Surakarta, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Wustho Mangkunegaran,"Kota Surakarta, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Al Hidayah Paya Pasir Marelan,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Laweyan,"Kota Surakarta, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Batam,"Kota Batam, Kepulauan Riau",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Al,"Kota Ambon, Maluku",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Pekanbaru,"Kota Pekanbaru, Riau",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Ganting,"Kota Padang, Sumatera Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Muhammadan,"Kota Padang, Sumatera Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung As Salam,"Kota Lubuklinggau, Sumatera Selatan",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Dwima As Salam,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Islamic Center Samarinda,"Kota Samarinda, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Nurul Iman Komplek Mtsn Medan Perumnas Helvetia,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Amin,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Nurul Hidayah,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Tua Lalabata,"Kabupaten Barru, Sulawesi Selatan",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Katangka,"Kabupaten Gowa, Sulawesi Selatan",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al-Markaz Al-Islami,"Kota Makassar, Sulawesi Selatan",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Makassar,"Kota Makassar, Sulawesi Selatan",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Kuba,"Kota Bau-Bau, Sulawesi Tenggara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Kuba Dan Tiang Bendera,"Kota Bau-Bau, Sulawesi Tenggara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Tuo Koto Nan Ompek,"Kota Payakumbuh, Sumatera Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Gadang Balai Nan Duo Koto Nan Ompek,"Kota Payakumbuh, Sumatera Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Sultan Mahmud Badaruddin I Palembang,"Kota Palembang, Sumatera Selatan",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Cheng Ho Palembang,"Kota Palembang, Sumatera Selatan",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Azizi,"Kabupaten Langkat, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Osmani,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Osmani Medan Labuhan,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Medan,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Amaliyah Panglima Denai Amplas,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al-Musabbihin Tasbi Blok C,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al-Huda,"Kota Medan, Sumatera Utara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Hijrah,"Kabupaten Manokwari, Papua Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Baiturrahman,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Manado,Sulawesi Utara,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Falah,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Tertua,"Kota Langsa, Aceh",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Banten,"Kota Serang, Banten",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Al-Azhom,"Kota Tangerang, Banten",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Berjumlah Buah,"Kabupaten Rejang Lebong, Bengkulu",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Curup,"Kabupaten Rejang Lebong, Bengkulu",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Baiturrahim,"Kota Gorontalo, Gorontalo",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Keramat Desa Pulau Tengah,"Kabupaten Kerinci, Jambi",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Darul Falah Kota Langsa,"Kota Langsa, Aceh",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Al-Falah,"Kota Jambi, Jambi",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung,"Kabupaten Purwakarta, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Al-Musabaqoh Subang,"Kabupaten Subang, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Kota Bogor,"Kota Bogor, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Al-Juman Bogor,"Kota Bogor, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Bogor,"Kota Bogor, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Istiqom Budi Agung,"Kota Bogor, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Almuhajirin,"Kota Bogor, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Asyuro Cipari Pangatikan Garut,"Kabupaten Garut, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Nahwa Nur Pura,"Kota Bogor, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Po Teumeureuhom,"Kabupaten Pidie, Aceh",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Kuno Desa Kaitetu,Maluku,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid At Taqwa,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Keraton,"Kota Bau-Bau, Sulawesi Tenggara",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Baiturrahman,Aceh,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Dian Al-Mahri,Jawa Barat,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Sabilal Muhtadin,Kalimantan Selatan,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Banjarmasin,Kalimantan Selatan,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Tuhfaturroghibin,Kalimantan Selatan,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung At-Taqwa,"Kabupaten Aceh Tenggara, Aceh",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Muhammadiyah Kelayan,Kalimantan Selatan,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Baangkat,Kalimantan Selatan,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Sungai Banar,Kalimantan Selatan,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Keramat Banua Halat,Kalimantan Selatan,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Pusaka Tabalong,Kalimantan Selatan,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Pangkalpinang,Kepulauan Bangka Belitung,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Sebanyak Hampir Ribu Buah,Maluku,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Keraton Buton,Sulawesi Tenggara,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Al-Karomah,Kalimantan Selatan,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid As-Sholihin,"Kota Bogor, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Pasir Pengaraian,Riau,Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al-Munawwar,"Kota Bogor, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Kuno Sewulan,"Kabupaten Madiun, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Ajaib,"Kabupaten Malang, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Yoni Al-Mubarok,"Kabupaten Nganjuk, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Sidoarjo,"Kabupaten Sidoarjo, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jamik Sumenep,"Kabupaten Sumenep, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Tuban,"Kabupaten Tuban, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Banjar Mlati,"Kota Kediri, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Amin,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Auliyya Setono Gedong,"Kota Kediri, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Cheng Ho Surabaya,"Kota Surabaya, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Nasional Al Akbar,"Kota Surabaya, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Sultan Suriansyah Terletak,"Kota Banjarmasin, Kalimantan Selatan",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Kyai Gede,"Kabupaten Kotawaringin Barat, Kalimantan Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Baitul Hikmah,"Kabupaten Berau, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al-Aman,"Kota Balikpapan, Kalimantan Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al-Hidayah,"Kota Bogor, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Kota Kediri,"Kota Kediri, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Bojonegoro,"Kabupaten Bojonegoro, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid An-Nur Pare,"Kabupaten Kediri, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Kauman Semarang,"Kota Semarang, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al-Mai,"Kota Bogor, Jawa Barat",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Saka Tunggal,"Kabupaten Banyumas, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Brebes,"Kabupaten Brebes, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Kurdi Didesa Karangmalang,"Kabupaten Brebes, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Demak,"Kabupaten Demak, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Astana Mantingan,"Kabupaten Jepara, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Baitul Makmur Jepara,"Kabupaten Jepara, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Al Birru Pertiwi,"Kabupaten Bojonegoro, Jawa Timur",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Bubrah,"Kabupaten Kudus, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Menara Kudus,"Kabupaten Kudus, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Rembang,"Kabupaten Rembang, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Jami Lasem,"Kabupaten Rembang, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung,"Kabupaten Tegal, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Wali Limbung,"Kabupaten Temanggung, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Damarjati,"Kota Salatiga, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Jawa Tengah,"Kota Semarang, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Baiturrahman Semarang,"Kota Semarang, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Agung Pati,"Kabupaten Pati, Jawa Tengah",Masjid,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Arca Joko Budhek,"Kabupaten Tulungagung, Jawa Timur",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Patung Bekantan,"Kota Banjarmasin, Kalimantan Selatan",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Arca Wisnu,"Kabupaten Sumenep, Jawa Timur",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Patung Warak Ngendok,"Kabupaten Kendal, Jawa Tengah",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Arca Manusia Purba,"Kota Pagar Alam, Sumatera Selatan",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Patung Salib Buntu Singki,"Kabupaten Toraja Utara, Sulawesi Selatan",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Patung Joko Dolog,"Kota Surabaya, Jawa Timur",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Patung Dewi Kwan Im,Kepulauan Riau,Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Patung Letda Sucipto,"Kabupaten Tuban, Jawa Timur",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Patung Satria Gatot Kaca,"Kabupaten Badung, Bali",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Patung Dewi Kwan Im Di,Kepulauan Riau,Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Patung Mini,"Kabupaten Jepara, Jawa Tengah",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Arca Dwarapala,"Kabupaten Malang, Jawa Timur",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Patung Buddha Empat Wajah,"Kota Surabaya, Jawa Timur",Patung,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Padang Roco,"Kabupaten Dharmasraya, Sumatera Barat",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Hering,"Kabupaten Nganjuk, Jawa Timur",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Kinawe,"Kabupaten Nganjuk, Jawa Timur",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Mula Malurung,"Kabupaten Lumajang, Jawa Timur",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Plumpungan,"Kota Salatiga, Jawa Tengah",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Gondosuli,"Kabupaten Temanggung, Jawa Tengah",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Anjuk Ladang,"Kabupaten Nganjuk, Jawa Timur",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Siwagrha Terjemahan Casparis,"Kabupaten Temanggung, Jawa Tengah",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Wanua Tengah Iii,"Kabupaten Temanggung, Jawa Tengah",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Batutulis,"Kota Bogor, Jawa Barat",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Karang Berahi,"Kabupaten Merangin, Jambi",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Dinoyo,Sulawesi Utara,Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Dinoyo,Jawa Timur,Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Prasasti Nalanda Tahun,"Kabupaten Temanggung, Jawa Tengah",Prasasti,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Agung Jagatnatha,"Kota Denpasar, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Batukaru,"Kabupaten Tabanan, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Sakenan,"Kota Denpasar, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Dalam Tahap Pembangunan,"Kabupaten Rejang Lebong, Bengkulu",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Parhyangan Agung Jagatkartta,"Kota Bogor, Jawa Barat",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Giri Kusuma,"Kota Bogor, Jawa Barat",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Jagad Karana,"Kota Surabaya, Jawa Timur",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Lugusari Pagelaran,"Kabupaten Pringsewu, Lampung",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Giri Sutra Mandala Gadingrejo,"Kabupaten Pringsewu, Lampung",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Kerti Bhuana,"Kota Bandar Lampung, Lampung",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Segara,"Kota Bandar Lampung, Lampung",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Agung Raksa Buana,"Kota Medan, Sumatera Utara",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Pulaki,"Kabupaten Buleleng, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Watu Klosot,"Kabupaten Lumajang, Jawa Timur",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Giri Jaya Natha,"Kota Balikpapan, Kalimantan Timur",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Ulun Danu Bratan,"Kabupaten Tabanan, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Majapahit,"Kabupaten Jembrana, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Lempuyang,"Kabupaten Karangasem, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Jagatnata Banjarmasin,Kalimantan Selatan,Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Sebanyak Buah,Maluku,Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Penataran Puspem Badung,"Kabupaten Badung, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Peti Tenget,"Kabupaten Badung, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Pucak Tedung,"Kabupaten Badung, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Sadha,"Kabupaten Badung, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Tanah Lot,"Kabupaten Tabanan, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Uluwatu,"Kabupaten Badung, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Dalem Jawa,"Kabupaten Bangli, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Kehen,"Kabupaten Bangli, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Rambut Siwi,"Kabupaten Jembrana, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Jati,"Kabupaten Jembrana, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Besakih,"Kabupaten Karangasem, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pura Taman Ayun,"Kabupaten Badung, Bali",Pura,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Baluk,"Kabupaten Bengkayang, Kalimantan Barat",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Kutai Guntung,"Kota Bontang, Kalimantan Timur",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat,"Kabupaten Alor, Nusa Tenggara Timur",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Dan Moko,"Kabupaten Alor, Nusa Tenggara Timur",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Berwarna Coklat Tua,"Kabupaten Alor, Nusa Tenggara Timur",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat,"Kabupaten Lembata, Nusa Tenggara Timur",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Pakpak,"Kabupaten Dairi, Sumatera Utara",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Palembang,"Kota Palembang, Sumatera Selatan",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat,"Kabupaten Nias, Sumatera Utara",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Dalam Perisai Segi Lima,"Kabupaten Toba Samosir, Sumatera Utara",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Desa Tumori,"Kota Gunungsitoli, Sumatera Utara",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Tradisional Madura Tanean Lanjhang,"Kabupaten Sumenep, Jawa Timur",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Dan Ritus Pesta Kacang Jontona,"Kabupaten Lembata, Nusa Tenggara Timur",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Museum Keraton Sumenep,"Kabupaten Sumenep, Jawa Timur",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat,"Kota Bau-Bau, Sulawesi Tenggara",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Bandayo Poboide,"Kota Gorontalo, Gorontalo",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Panjalin,"Kabupaten Majalengka, Jawa Barat",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Bubungan Tinggi,Kalimantan Selatan,Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Suku Dayak Bukit Disebut Balai,Kalimantan Selatan,Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Panggung,Kepulauan Bangka Belitung,Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Limas,Kepulauan Bangka Belitung,Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat,Nusa Tenggara Timur,Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Rakit,Kepulauan Bangka Belitung,Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Gobel,Gorontalo,Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Bentara Pineung,"Kabupaten Pidie, Aceh",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Bentara Blang,"Kabupaten Pidie, Aceh",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Rejang Lebong,"Kabupaten Rejang Lebong, Bengkulu",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Dulohupa,"Kota Gorontalo, Gorontalo",Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Adat Dan Pasola,Nusa Tenggara Timur,Rumah,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Fondasi Bilik,"Kabupaten Lingga, Kepulauan Riau",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Selobanteng,"Kabupaten Situbondo, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Istana Damnah,"Kabupaten Lingga, Kepulauan Riau",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Prasejarah Sumbermalang,"Kabupaten Situbondo, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Batu Lantai,"Kabupaten Situbondo, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Makam Sayyid Ustman Bin Ali Bin Abdillah Al-Habsyi,"Kabupaten Sampang, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Sendang Gede Ngimbang,"Kabupaten Lamongan, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Makam Bangsacara,"Kabupaten Sampang, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Makam Pangeran Santo Merto,"Kabupaten Sampang, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Ratoh Ebuh,"Kabupaten Sampang, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Pababaran Trunojoyo,"Kabupaten Sampang, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Pangeran Rangga Sukawati,"Kabupaten Pamekasan, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Istana Robat,"Kabupaten Lingga, Kepulauan Riau",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Bung Karno,"Kabupaten Kediri, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Makam Bangsacara Dan Ragapatmi,"Kabupaten Sampang, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Warisan Dunia Unesco,"Kabupaten Ngada, Nusa Tenggara Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Menara Bakaran Batu,"Kota Medan, Sumatera Utara",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Candi Pulau Sawah,"Kabupaten Dharmasraya, Sumatera Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Tondowongso,"Kabupaten Kediri, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Wihara Mahavira Graha,"Kota Medan, Sumatera Utara",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Katedral Roma Katholik,"Kota Medan, Sumatera Utara",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Graha Bunda Maria Annai Velangkanni,"Kota Medan, Sumatera Utara",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Titi Gantung,"Kota Medan, Sumatera Utara",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Restoran Tip Top,"Kota Medan, Sumatera Utara",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Purbakala Kokas,"Kabupaten Fakfak, Papua Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Pekong Lima Medan Labuhan,"Kota Medan, Sumatera Utara",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Rumah Tjong A Fie,"Kota Medan, Sumatera Utara",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Menara Air Tirtanadi,"Kota Medan, Sumatera Utara",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Cagar Budaya Pdri Kototinggi,"Kabupaten Lima Puluh Kota, Sumatera Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kawasan Megalit Maek,"Kabupaten Lima Puluh Kota, Sumatera Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Kawasan Megalit Belubus,"Kabupaten Lima Puluh Kota, Sumatera Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Megalitik Sokoliman,"Kabupaten Gunungkidul, Yogyakarta",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Masjid Raya Al Mashun,"Kota Medan, Sumatera Utara",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Kanjeng Sepuh Sedayu,"Kabupaten Gresik, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Raja Balok,Kepulauan Bangka Belitung,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Peninggalan Era Megalitikum,"Kabupaten Temanggung, Jawa Tengah",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Makam Tegal Mas,"Kabupaten Situbondo, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Lawang Gede,"Kabupaten Cirebon, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Pasanggrahan Balong Biru,"Kabupaten Cirebon, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Batu Tulis Huludayeuh,"Kabupaten Cirebon, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Bleberan,Yogyakarta,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Gondangan,Yogyakarta,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Oluhuta,Gorontalo,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Sokoliman,Yogyakarta,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Arca Gupolo,Yogyakarta,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Arca Bugisan,Yogyakarta,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Mangir,Yogyakarta,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Payak,Yogyakarta,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Mantup,Yogyakarta,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Gondangan,"Kabupaten Gunungkidul, Yogyakarta",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Gua Sentono,Yogyakarta,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Trowulan,Jawa Timur,Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Kerajaan Kuala Batee,"Kabupaten Aceh Barat Daya, Aceh",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Salakanagara,"Kabupaten Pandeglang, Banten",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Manusia Purba Semedo,"Kabupaten Tegal, Jawa Tengah",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Kota Sejarah Lasem,"Kabupaten Rembang, Jawa Tengah",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Pertapaan Pamulang,"Kabupaten Rembang, Jawa Tengah",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Tulang Belulang Manusia Austronesia Dan Peninggalan Kebudayaannya,"Kabupaten Rembang, Jawa Tengah",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Tulang Belulang Manusia Austronesia,"Kabupaten Rembang, Jawa Tengah",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Cungkuk,"Kabupaten Sukabumi, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Gunung Ageung,"Kabupaten Majalengka, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Sanghyang Lingga,"Kabupaten Majalengka, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Sanghiang Sagarahiang,"Kabupaten Kuningan, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Megalitikum Gunung Kasur,"Kabupaten Cianjur, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Megalitikum Gunung Padang,"Kabupaten Cianjur, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Gunung Padang,"Kabupaten Bandung, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Makam Bosscha,"Kabupaten Bandung, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Bumi Alit Kabuyutan,"Kabupaten Bandung, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Rumah Hitam,"Kabupaten Bandung, Jawa Barat",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Gosari,"Kabupaten Gresik, Jawa Timur",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
+Situs Desa Blebera,"Kabupaten Gunungkidul, Yogyakarta",Situs,,,,,,,,,,,,API_ERROR,SEARCH_API_ERROR
